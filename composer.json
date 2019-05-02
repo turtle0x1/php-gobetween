@@ -1,7 +1,7 @@
 {
     "name": "dhope0000/php-gobetween",
     "description": "A client for gobetween api",
-    "license": "GPLv3",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Daniel Hope",
